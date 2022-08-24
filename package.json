@@ -3,7 +3,7 @@
   "version": "2.0.3",
   "private": false,
   "description": "",
-  "repository": "github:bjerkio/oidc-react",
+  "repository": "github:lucasKuratani/oidc-react",
   "license": "MIT",
   "author": "",
   "main": "build/src/index.js",
